@@ -314,7 +314,7 @@
                 <div class="timeline-company">${escapeHtml(pos.company)}</div>
               </div>
             </div>
-            <div class="timeline-date">${escapeHtml(pos.startDate)} - ${escapeHtml(pos.endDate || 'Present')}</div>
+            <div class="timeline-date">${escapeHtml(pos.endDate || 'Present')}</div>
           </div>
           <p class="timeline-location"><i class="fas fa-map-marker-alt"></i> ${escapeHtml(pos.location || '')}</p>
           <p class="timeline-description">${escapeHtml(pos.description)}</p>
