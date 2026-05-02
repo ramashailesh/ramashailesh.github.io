@@ -1,0 +1,26 @@
+{
+  "heading": "GET IN TOUCH",
+  "subheading": "Let's build something amazing together",
+  "links": [
+    {
+      "icon": "fab fa-linkedin",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ramashaileshd",
+      "color": "#66d9ef"
+    },
+    {
+      "icon": "fab fa-github",
+      "label": "GitHub",
+      "url": "https://github.com/ramashailesh",
+      "color": "#ffd93d"
+    },
+    {
+      "icon": "fas fa-envelope",
+      "label": "Email",
+      "url": "mailto:ramashaileshd@gmail.com",
+      "color": "#ff6b9d"
+    }
+  ],
+  "email": "ramashaileshd@gmail.com",
+  "availability": "Open to opportunities"
+}

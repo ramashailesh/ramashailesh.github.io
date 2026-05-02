@@ -1,0 +1,101 @@
+{
+  "heading": "SKILLS",
+  "categories": [
+    {
+      "name": "Languages",
+      "icon": "fas fa-code",
+      "items": [
+        {
+          "name": "SQL (Joins, Window Functions, Aggregations)",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Query Optimization",
+          "icon": "fas fa-chart-line"
+        }
+      ]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "icon": "fas fa-layer-group",
+      "items": [
+        {
+          "name": "ETL",
+          "icon": "fas fa-circle"
+        },
+        {
+          "name": "ELT",
+          "icon": "fas fa-circle"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Platforms",
+      "icon": "fas fa-tools",
+      "items": [
+        {
+          "name": "Power BI",
+          "icon": "fas fa-chart-bar"
+        },
+        {
+          "name": "Tableau",
+          "icon": "fas fa-chart-pie"
+        },
+        {
+          "name": "Power BI Service",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Tableau Desktop",
+          "icon": "fas fa-chart-pie"
+        },
+        {
+          "name": "Excel",
+          "icon": "fas fa-microchip"
+        },
+        {
+          "name": "SQL-based Data Warehouse Platforms",
+          "icon": "fas fa-chart-line"
+        }
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "icon": "fas fa-cogs",
+      "items": [
+        {
+          "name": "Data Engineering & Pipelines",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Data Warehousing & Data Modeling",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Business Intelligence & Visualization",
+          "icon": "fas fa-microchip"
+        },
+        {
+          "name": "Data Quality & Governance",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Analytics & Reporting",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Dimensional Data Modeling",
+          "icon": "fas fa-circle"
+        },
+        {
+          "name": "Star Schema",
+          "icon": "fas fa-chart-line"
+        },
+        {
+          "name": "Data Marts",
+          "icon": "fas fa-chart-line"
+        }
+      ]
+    }
+  ]
+}

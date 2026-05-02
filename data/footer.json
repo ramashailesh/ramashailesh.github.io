@@ -1,0 +1,41 @@
+{
+  "brandName": "DASARI RAMASHAILESH",
+  "brandTitle": "Analytics Engineer",
+  "navLinks": [
+    {
+      "label": "Home",
+      "href": "#hero"
+    },
+    {
+      "label": "About",
+      "href": "#about"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills"
+    }
+  ],
+  "socialLinks": [
+    {
+      "icon": "fab fa-github",
+      "url": "https://github.com/ramashailesh",
+      "label": "GitHub"
+    },
+    {
+      "icon": "fab fa-linkedin",
+      "url": "https://www.linkedin.com/in/ramashaileshd",
+      "label": "LinkedIn"
+    },
+    {
+      "icon": "fas fa-envelope",
+      "url": "mailto:ramashaileshd@gmail.com",
+      "label": "Email"
+    }
+  ],
+  "copyright": "Dasari Ramashailesh",
+  "year": "2026"
+}

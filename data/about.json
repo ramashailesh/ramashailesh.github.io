@@ -1,0 +1,44 @@
+{
+  "heading": "ABOUT",
+  "paragraphs": [
+    {
+      "text": "Analytics Engineer with 6+ years of experience building analytics datasets, SQL pipelines, and data warehouse solutions supporting operational and financial analysis. Skilled in SQL, data modeling, ETL/ELT pipelines, data integration, and Power BI/Tableau dashboards. Improved reporting performance through query optimization and data validation practices. Experienced collaborating with data engineers, analysts, and business teams to deliver reliable datasets supporting enterprise reporting, analytics platforms, and data-driven decision making.",
+      "highlights": []
+    },
+    {
+      "text": "Experienced analytics engineer with {yearsExp} of hands-on experience across {industries}.",
+      "highlights": [
+        {
+          "text": "2+ years",
+          "color": "yellow",
+          "key": "yearsExp"
+        },
+        {
+          "text": "finance, healthcare, data analytics",
+          "color": "pink",
+          "key": "industries"
+        }
+      ]
+    },
+    {
+      "text": "I bring a unique blend of {blend1}, {blend2}, and a genuine enthusiasm for {blend3}.",
+      "highlights": [
+        {
+          "text": "technical expertise",
+          "color": "yellow",
+          "key": "blend1"
+        },
+        {
+          "text": "collaborative leadership",
+          "color": "green",
+          "key": "blend2"
+        },
+        {
+          "text": "building impactful solutions",
+          "color": "cyan",
+          "key": "blend3"
+        }
+      ]
+    }
+  ]
+}

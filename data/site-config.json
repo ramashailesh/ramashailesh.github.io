@@ -1,0 +1,32 @@
+{
+  "siteName": "Dasari Ramashailesh | Analytics Engineer",
+  "theme": "light",
+  "loaderInitials": [
+    "D",
+    "R"
+  ],
+  "metaDescription": "Dasari Ramashailesh — Analytics Engineer. Portfolio showcasing professional experience, skills, and projects.",
+  "metaKeywords": "Dasari Ramashailesh, Analytics Engineer, Portfolio",
+  "progressCheckpoints": [
+    {
+      "id": "hero",
+      "label": "Home"
+    },
+    {
+      "id": "about",
+      "label": "About"
+    },
+    {
+      "id": "experience",
+      "label": "Journey"
+    },
+    {
+      "id": "skills",
+      "label": "Skills"
+    },
+    {
+      "id": "contact",
+      "label": "Contact"
+    }
+  ]
+}

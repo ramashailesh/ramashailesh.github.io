@@ -1,0 +1,133 @@
+{
+  "greeting": "Hi there!",
+  "name": "Dasari Ramashailesh",
+  "description": "Based in TX, USA. Analytics Engineer with 6+ years of experience building analytics datasets, SQL pipelines, and data warehouse solutions supporting operational and financial analysis.",
+  "tagline": "Analytics Engineer",
+  "avatarUrl": "",
+  "socialLinks": [
+    {
+      "icon": "fab fa-github",
+      "url": "https://github.com/ramashailesh",
+      "label": "GitHub"
+    },
+    {
+      "icon": "fab fa-linkedin",
+      "url": "https://www.linkedin.com/in/ramashaileshd",
+      "label": "LinkedIn"
+    },
+    {
+      "icon": "fas fa-envelope",
+      "url": "mailto:ramashaileshd@gmail.com",
+      "label": "Email"
+    }
+  ],
+  "techBadges": [
+    {
+      "icon": "fas fa-chart-line",
+      "label": "SQL (Joins, Window Functions, Aggregations)"
+    },
+    {
+      "icon": "fas fa-chart-line",
+      "label": "Query Optimization"
+    },
+    {
+      "icon": "fas fa-circle",
+      "label": "ETL"
+    },
+    {
+      "icon": "fas fa-circle",
+      "label": "ELT"
+    },
+    {
+      "icon": "fas fa-chart-bar",
+      "label": "Power BI"
+    },
+    {
+      "icon": "fas fa-chart-pie",
+      "label": "Tableau"
+    },
+    {
+      "icon": "fas fa-chart-line",
+      "label": "Power BI Service"
+    },
+    {
+      "icon": "fas fa-chart-pie",
+      "label": "Tableau Desktop"
+    }
+  ],
+  "terminalCommands": {
+    "about": {
+      "title": "About Me",
+      "content": "Analytics Engineer with 2+ years of experience building scalable web applications.",
+      "highlights": [
+        "Working with SQL (Joins, Window Functions, Aggregations)",
+        "Working with Query Optimization",
+        "Working with ETL"
+      ]
+    },
+    "skills": [
+      "SQL (Joins, Window Functions, Aggregations)",
+      "Query Optimization",
+      "ETL",
+      "ELT",
+      "Power BI",
+      "Tableau",
+      "Power BI Service",
+      "Tableau Desktop",
+      "Excel",
+      "SQL-based Data Warehouse Platforms",
+      "Data Engineering & Pipelines",
+      "Data Warehousing & Data Modeling",
+      "Business Intelligence & Visualization",
+      "Data Quality & Governance",
+      "Analytics & Reporting",
+      "Dimensional Data Modeling"
+    ],
+    "experience": [
+      {
+        "company": "Elevance Health",
+        "title": "Analytics Engineer",
+        "period": "Aug 2024 - Present",
+        "location": ""
+      },
+      {
+        "company": "CitiusTech",
+        "title": "BI Developer",
+        "period": "Jul 2020 - Aug 2022",
+        "location": ""
+      },
+      {
+        "company": "Cybage Software",
+        "title": "Data Analyst",
+        "period": "Feb 2018 - Jun 2020",
+        "location": ""
+      }
+    ],
+    "education": [
+      {
+        "degree": "Masters",
+        "institution": "Trine University, Detroit, Michigan, USA",
+        "period": "Feb 2023 - Dec 2024"
+      },
+      {
+        "degree": "BTech",
+        "institution": "Vasavi college, Hyderabad, India",
+        "period": "Sep 2014 - May 2018"
+      }
+    ],
+    "contact": {
+      "email": "ramashaileshd@gmail.com",
+      "website": "",
+      "github": "github.com/ramashailesh",
+      "linkedin": "https://www.linkedin.com/in/ramashaileshd"
+    }
+  },
+  "terminalLines": [
+    "$ whoami",
+    "Dasari Ramashailesh",
+    "$ cat role.txt",
+    "Analytics Engineer",
+    "$ ls skills/",
+    "SQL (Joins, Window Functions, Aggregations)  Query Optimization  ETL  ELT  Power BI"
+  ]
+}

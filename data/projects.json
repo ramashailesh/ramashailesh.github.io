@@ -1,0 +1,44 @@
+{
+  "heading": "Projects",
+  "projects": [
+    {
+      "name": "mutual-fund-analysis-dashboard-python-powerbi",
+      "description": "Modern web application demonstrating clean code principles",
+      "technologies": [
+        "HTML"
+      ],
+      "liveUrl": "https://github.com/ramashailesh/mutual-fund-analysis-dashboard-python-powerbi",
+      "githubUrl": "https://github.com/ramashailesh/mutual-fund-analysis-dashboard-python-powerbi"
+    },
+    {
+      "name": "data-analysis-of-bicycle-manufacturing-company-using-python-sql-and-power-bi",
+      "description": "Practice application demonstrating full-stack development skills",
+      "technologies": [
+        "Python"
+      ],
+      "liveUrl": "https://github.com/ramashailesh/data-analysis-of-bicycle-manufacturing-company-using-python-sql-and-power-bi",
+      "githubUrl": "https://github.com/ramashailesh/data-analysis-of-bicycle-manufacturing-company-using-python-sql-and-power-bi"
+    },
+    {
+      "name": "healthcare-data-analysis-using-powerbi",
+      "description": "Hands-on learning experience with modern frameworks",
+      "technologies": [],
+      "liveUrl": "https://github.com/ramashailesh/healthcare-data-analysis-using-powerbi",
+      "githubUrl": "https://github.com/ramashailesh/healthcare-data-analysis-using-powerbi"
+    },
+    {
+      "name": "us-healthcare-analysis-powerbi",
+      "description": "Personal project for exploring modern development practices",
+      "technologies": [],
+      "liveUrl": "https://github.com/ramashailesh/us-healthcare-analysis-powerbi",
+      "githubUrl": "https://github.com/ramashailesh/us-healthcare-analysis-powerbi"
+    },
+    {
+      "name": "uber-trip-analysis",
+      "description": "Personal development project using industry best practices",
+      "technologies": [],
+      "liveUrl": "https://github.com/ramashailesh/uber-trip-analysis",
+      "githubUrl": "https://github.com/ramashailesh/uber-trip-analysis"
+    }
+  ]
+}

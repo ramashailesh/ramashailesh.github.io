@@ -1,0 +1,23 @@
+{
+  "heading": "EDUCATION",
+  "entries": [
+    {
+      "degree": "Masters",
+      "institution": "Trine University, Detroit, Michigan, USA",
+      "startDate": "2023",
+      "endDate": "2024",
+      "gpa": "",
+      "honors": []
+    },
+    {
+      "degree": "BTech",
+      "institution": "Vasavi college, Hyderabad, India",
+      "startDate": "2014",
+      "endDate": "2018",
+      "gpa": "",
+      "honors": []
+    }
+  ],
+  "certifications": [],
+  "languages": []
+}
