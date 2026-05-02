@@ -416,7 +416,7 @@
               <h3 class="education-title">${escapeHtml(entry.degree)}</h3>
               <p class="education-school">${escapeHtml(entry.institution)}</p>
             </div>
-            <span class="badge">${escapeHtml(entry.startDate || '')} - ${escapeHtml(entry.endDate || '')}</span>
+            <span class="badge">${escapeHtml(entry.endDate || '')}</span>
           </div>
           <p class="education-location"><i class="fas fa-map-marker-alt"></i> ${escapeHtml(entry.location || '')}</p>`;
 
@@ -432,7 +432,7 @@
                   <h3 class="education-title">${escapeHtml(e.degree)}</h3>
                   <p class="education-school">${escapeHtml(e.institution)}</p>
                 </div>
-                <span class="badge">${escapeHtml(e.startDate || '')} - ${escapeHtml(e.endDate || '')}</span>
+                <span class="badge">${escapeHtml(e.endDate || '')}</span>
               </div>
               <p class="education-location"><i class="fas fa-map-marker-alt"></i> ${escapeHtml(e.location || '')}</p>`;
             card.after(extraCard);
