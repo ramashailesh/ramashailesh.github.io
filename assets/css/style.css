@@ -668,6 +668,28 @@ body[data-theme="dark"] .page-wrapper {
     border-radius: 2px;
 }
 
+.deco-label {
+    position: absolute;
+    bottom: -15px;
+    left: 50%;
+    transform: translateX(-50%) rotate(-3deg);
+    background: var(--yellow);
+    color: var(--text);
+    padding: 6px 16px;
+    font-size: 1.1rem;
+    font-weight: 700;
+    font-family: 'Space Mono', monospace;
+    border: 2px solid var(--border);
+    box-shadow: 4px 4px 0 var(--border);
+    white-space: nowrap;
+    z-index: 10;
+    transition: transform 0.3s ease;
+}
+
+.hero-image-wrapper:hover .deco-label {
+    transform: translateX(-50%) rotate(0deg) scale(1.05);
+}
+
 .hero-terminal {
     background: #1e1e2e;
     border: var(--border-width) solid var(--border);
