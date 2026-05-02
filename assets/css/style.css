@@ -668,6 +668,32 @@ body[data-theme="dark"] .page-wrapper {
     border-radius: 2px;
 }
 
+.hero-deco-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-top: 1rem;
+}
+
+.deco-btn {
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.deco-btn:hover {
+    transform: translateY(-5px) rotate(5deg);
+}
+
+.deco-btn svg {
+    display: block;
+    filter: drop-shadow(4px 4px 0 var(--border));
+    transition: filter 0.3s ease;
+}
+
+.deco-btn:hover svg {
+    filter: drop-shadow(2px 2px 0 var(--border));
+}
+
 .deco-label {
     position: absolute;
     bottom: -15px;
