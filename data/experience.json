@@ -6,6 +6,7 @@
       "company": "Elevance Health",
       "startDate": "Aug 2024",
       "endDate": "Present",
+      "logoUrl": "https://logo.clearbit.com/elevancehealth.com",
       "description": "Built analytics datasets in a cloud data warehouse using SQL transformations, converting healthcare claims and provider data into structured models supporting finance, operations, and reporting teams. Implemented ELT pipelines integrating data from seven operational systems, reducing manual data preparation by 60% and improving dataset reliability supporting enterprise reporting and Power BI dashboards. Developed Power BI dashboards tracking claims processing time, provider utilization, and operational KPIs across healthcare programs, enabling leadership teams to monitor service performance and operational efficiency. Optimized SQL joins, aggregations, and query logic across analytics pipelines, reducing query execution time by 38% and improving reporting performance for production dashboards supporting business teams. Implemented data validation checks and monitoring processes identifying inconsistencies across incoming datasets, strengthening data quality and improving reporting accuracy for analytics workflows used by operational teams. Collaborated with data engineers and analysts to integrate new source systems and standardize transformation logic supporting shared analytics datasets and consistent reporting models across multiple business functions. Documented data models and transformation workflows supporting data governance and enabling self-service analytics across reporting teams.",
       "location": "",
       "achievements": [
@@ -29,6 +30,7 @@
       "company": "CitiusTech",
       "startDate": "Jul 2020",
       "endDate": "Aug 2022",
+      "logoUrl": "https://logo.clearbit.com/citiustech.com",
       "description": "Developed SQL ETL pipelines transforming patient activity, billing, and clinical datasets into structured reporting tables supporting healthcare operations analytics and performance monitoring across hospital systems and analytics teams. Built Power BI and Tableau dashboards used by more than 30 stakeholders to monitor patient throughput, service utilization trends, and financial performance across healthcare programs. Designed dimensional data models using star schema structures, improving reporting consistency and reducing dashboard development time by 35% while enabling analysts to deliver operational reports more efficiently. Optimized SQL queries and stored procedures supporting reporting workloads, improving dashboard performance across BI reporting systems. Integrated new healthcare datasets into reporting pipelines while maintaining consistent transformation logic and data quality. Supported analytics teams with ad-hoc reporting and operational analysis for healthcare program performance monitoring.",
       "location": "",
       "achievements": [
@@ -52,6 +54,7 @@
       "company": "Cybage Software",
       "startDate": "Feb 2018",
       "endDate": "Jun 2020",
+      "logoUrl": "https://logo.clearbit.com/cybage.com",
       "description": "Analyzed operational datasets using SQL and Excel to identify performance trends and reporting gaps, supporting business teams with data-driven insights for monitoring operational efficiency and decision making. Developed automated Power BI reports replacing manual spreadsheet processes, improving visibility of operational KPIs and enabling stakeholders to track performance metrics through consistent and reliable dashboards. Wrote SQL queries extracting structured datasets from relational databases, supporting recurring operational reports and ad-hoc analysis requests from business teams requiring accurate and timely data insights. Performed data cleansing, profiling, and validation activities to improve dataset accuracy, ensuring reliable data inputs for reporting dashboards and analytics used by operations and management teams. Assisted engineering teams in developing ETL workflows consolidating data from multiple operational systems into centralized reporting datasets, improving accessibility of analytics data for business reporting needs.",
       "location": "",
       "achievements": [

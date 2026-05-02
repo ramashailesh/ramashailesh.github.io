@@ -299,14 +299,35 @@
 
     timelineList.innerHTML = data.positions
       .map(
-        (pos) => `
-      <div class="timeline-item-flat">
-        <div class="timeline-dot"></div>
-        <div class="timeline-content-flat">
-          <h4 class="timeline-title">${escapeHtml(pos.title)} @ ${escapeHtml(pos.company)}</h4>
-          <p class="timeline-date">${escapeHtml(pos.startDate)} - ${escapeHtml(pos.endDate || 'Present')}</p>
-          <p class="timeline-description">${escapeHtml(pos.description)}</p>
+        (pos, idx) => `
+      <div class="timeline-item">
+        <div class="timeline-marker-col">
+          <div class="timeline-dot"></div>
+          ${idx < data.positions.length - 1 ? '<div class="timeline-line"></div>' : ''}
+        </div>
+        <div class="timeline-card">
+          <div class="timeline-card-header">
+            <div style="display: flex; align-items: center; gap: 1rem;">
+              ${pos.logoUrl ? `<img src="${pos.logoUrl}" alt="${escapeHtml(pos.company)} logo" class="company-logo" style="width: 48px; height: 48px; border-radius: 6px; border: 2px solid var(--border); background: var(--white); object-fit: contain; padding: 2px;">` : ''}
+              <div>
+                <h4 class="timeline-job-title">${escapeHtml(pos.title)}</h4>
+                <div class="timeline-company">${escapeHtml(pos.company)}</div>
+              </div>
+            </div>
+            <div class="timeline-date">${escapeHtml(pos.startDate)} - ${escapeHtml(pos.endDate || 'Present')}</div>
+          </div>
           <p class="timeline-location"><i class="fas fa-map-marker-alt"></i> ${escapeHtml(pos.location || '')}</p>
+          <p class="timeline-description">${escapeHtml(pos.description)}</p>
+          ${pos.achievements ? `
+            <ul class="timeline-achievements">
+              ${pos.achievements.map((ach) => `<li>${escapeHtml(ach)}</li>`).join('')}
+            </ul>
+          ` : ''}
+          ${pos.technologies ? `
+            <div class="timeline-technologies">
+              ${pos.technologies.map((tech) => `<span class="tech-tag">${escapeHtml(tech)}</span>`).join('')}
+            </div>
+          ` : ''}
         </div>
       </div>`
       )
